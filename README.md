@@ -19,6 +19,7 @@
 # Install dependencies
 $ npm install
 ```
+Create a .env in the root directory, then add the environment variables I've attached to my email
 
 ## Running the app
 
